@@ -18,4 +18,5 @@ for sub in test_list:
 		res.setdefault(key, []).append(val) 
 
 # printing result 
-print("The merged values encapsulated dictionary is : " + str(res)) 
+print("The merged values encapsulated dictionary is : " + str(res))
+print("Hello")
